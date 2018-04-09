@@ -8,4 +8,4 @@ sudo git clone https://github.com/OCA/partner-contact.git -b 10.0 /opt/odoo/part
 # 2.-Acceso directo
 sudo ln -s /opt/odoo/l10n-spain/l10n_es_toponyms /opt/odoo/custom/addons	
 sudo ln -s /opt/odoo/partner-contact/base_location /opt/odoo/custom/addons
-sudo ln -s /opt/odoo/partner-contact/base_location_geonames /opt/odoo/custom/addons
+sudo ln -s /opt/odoo/partner-contact/base_location_geonames_import /opt/odoo/custom/addons
