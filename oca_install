@@ -23,7 +23,7 @@ echo -e "\nCreando los accesos directos..."
 #https://github.com/OCA/account-financial-reporting.git
  
 
-sudo ln -s /opt/odoo/account-financial-reporting/account_move_line_report_xls /opt/odoo/custom/addons
+
 
 
 #https://github.com/OCA/account-financial-tools.git
