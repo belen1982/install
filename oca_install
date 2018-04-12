@@ -105,7 +105,7 @@ sudo ln -s /opt/odoo/partner-contact/base_partner_sequence /opt/odoo/custom/addo
 
 https://github.com/OCA/reporting-engine.git
 sudo ln -s /opt/odoo/reporting-engine/report_xlsx /opt/odoo/custom/addons #sustituye a  report_xls
-sudo ln -s /opt/odoo/reporting-engine/report_py3o /opt/odoo/custom/addons #sustituye a report_custom_filename,
+
 
 
 https://github.com/OCA/server-tools.git
