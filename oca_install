@@ -61,6 +61,7 @@ https://github.com/OCA/knowledge.git
 sudo ln -s /opt/odoo/knowledge/document_page /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/knowledge/attachment_preview /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/knowledge/document_url /opt/odoo/custom/addons
+sudo ln -s /opt/odoo/knowledge/knowledge /opt/odoo/custom/addons
 
 
 
