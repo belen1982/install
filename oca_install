@@ -43,7 +43,6 @@ sudo ln -s /opt/odoo/account-payment/account_due_list /opt/odoo/custom/addons
 sudo ln -s /opt/odoo/account-payment/account_due_list_payment_mode /opt/odoo/custom/addons
 
 
-
 https://github.com/OCA/bank-payment.git
 
 sudo ln -s /opt/odoo/bank-payment/account_banking_mandate /opt/odoo/custom/addons
