@@ -123,7 +123,7 @@ sudo ln -s /opt/odoo/account-invoicing/account_invoice_refund_link /opt/odoo/cus
 
 
 #crea enlace al modulo oca install
-sudo ln -s /opt/odoo/oca_install /opt/odoo/custom/addons 
+sudo ln -s /opt/odoo/oca_install/ocamodulo /opt/odoo/custom/addons 
 
 
 
